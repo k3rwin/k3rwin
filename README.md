@@ -11,5 +11,5 @@
 - 💪 预备肌肉猛男
 - 🚣 网上冲浪选手
 
-[![k3rwin's github stats](https://github-readme-stats.vercel.app/api?username=k3rwin&show_icons=true&theme=tokyonight)](https://github.com/k3rwin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=k3rwin)](https://github.com/k3rwin)
+[![k3rwin's github stats](https://github-readme-stats.vercel.app/api?username=k3rwin&show_icons=true)](https://github.com/k3rwin) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=k3rwin)](https://github.com/k3rwin)
 
